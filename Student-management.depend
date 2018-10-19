@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1478348798 source:e:\git\hp测试151-1508090110-邢晓惠\hp测试151-1508090110-邢晓惠-源代码\main.cpp
+	<stdlib.h>
+	"logging.h"
+	"change.h"
+	"display.h"
+	"order.h"
+	"scholarship.h"
+
+1478401096 e:\git\hp测试151-1508090110-邢晓惠\hp测试151-1508090110-邢晓惠-源代码\logging.h
+	"student.h"
+
+1478363318 e:\git\hp测试151-1508090110-邢晓惠\hp测试151-1508090110-邢晓惠-源代码\student.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1479562604 e:\git\hp测试151-1508090110-邢晓惠\hp测试151-1508090110-邢晓惠-源代码\change.h
+	"student.h"
+
+1479562952 e:\git\hp测试151-1508090110-邢晓惠\hp测试151-1508090110-邢晓惠-源代码\display.h
+	"student.h"
+
+1479563566 e:\git\hp测试151-1508090110-邢晓惠\hp测试151-1508090110-邢晓惠-源代码\order.h
+	"student.h"
+
+1479565484 e:\git\hp测试151-1508090110-邢晓惠\hp测试151-1508090110-邢晓惠-源代码\scholarship.h
+
+1478348798 source:e:\git\班主任管家系统\student-management\main.cpp
+	<stdlib.h>
+	"logging.h"
+	"change.h"
+	"display.h"
+	"order.h"
+	"scholarship.h"
+
+1478401096 e:\git\班主任管家系统\student-management\logging.h
+	"student.h"
+
+1478363318 e:\git\班主任管家系统\student-management\student.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1479562604 e:\git\班主任管家系统\student-management\change.h
+	"student.h"
+
+1479562952 e:\git\班主任管家系统\student-management\display.h
+	"student.h"
+
+1479563566 e:\git\班主任管家系统\student-management\order.h
+	"student.h"
+
+1479565484 e:\git\班主任管家系统\student-management\scholarship.h
+
